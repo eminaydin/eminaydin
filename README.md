@@ -1,6 +1,7 @@
-## Hi there 👋
 
-I am frontend developer coming from medieval history background. I have a great passion to try out new technologies and build solutions for real world problems. If you are looking for someone to help you solve problems, check out my projects and shout out to me either at [Linkedin](https://www.linkedin.com/in/emin-aydin/)  or [e-mail](mailto:eminaydin93@gmx.de). Will be happy to get connected with you! 
+<p align='center'><img align="center" src="https://cdn.dribbble.com/users/4770/screenshots/300576/attachments/12205/hey-1.png" alt="Hey" width="30%" height="10%"></p>
+
+I am frontend developer coming from medieval history background. I have a great passion to try out new technologies and build solutions for real world problems. If you are looking for someone to help you solve problems, check out my projects and shout out to me either at [Linkedin](https://www.linkedin.com/in/emin-aydin/)  or [e-mail](mailto:eminaydin93@gmx.de). Will be more than happy to get connected with you! 
 
 
 
