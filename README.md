@@ -12,12 +12,12 @@ I am frontend developer coming from medieval history background. I have a great 
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="">
+<span>
 <img  src="https://github-readme-stats.vercel.app/api?username=eminaydin&show_icons=true&count_private=true&line_height=27&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&title_color=FFFFFF" />
-</a>
-<a href="">
+</span>
+<span>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminaydin&text_color=FFFFFF&icon_color=2bbc8a&bg_color=1d1f21&title_color=FFFFFF" />
-</a>
+</span>
 
 <p align="center">
 <img src="https://github.com/eminaydin/eminaydin/blob/main/donut.gif" height="600"/>
