@@ -6,10 +6,11 @@ I am frontend developer coming from medieval history background. I have a great 
 <a href="mailto:singh_kshitij@yahoo.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
 <a href="https://eminaydin.now.sh/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=eminaydin&show_icons=true&count_private=true&theme=solarized-light" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=solarized-light" />
 
+<img  src="https://github-readme-stats.vercel.app/api?username=eminaydin&show_icons=true&count_private=true&theme=omni" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=omni" />
 
+<img align="center" src="https://github.com/eminaydin/eminaydin/blob/main/donut.gif" height="600"/>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eminaydin)
